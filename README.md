@@ -2,15 +2,15 @@
 
 Быстро настроить сборку вашего проекта на Gulp и писать код на:
 
-- HTML, PUG
-- CSS, SCSS, SASS, LESS, STYLUS
-- Java Script, Type Script, Coffee Script
+- HTML
+- CSS, SCSS, SASS,
+- Java Script, Type Script
 
 ## Функционал сборки
 
 - компиляция препроцессора PUG
 - минификация HTML
-- компиляция препроцессоров LESS, SASS, STYLUS
+- компиляция препроцессоров SASS
 - минификация CSS
 - автоматическое добавление префиксов CSS
 - транспиляция языков Type Script
@@ -29,7 +29,7 @@
 |                |    HTML     |              Styles              |      Scripts      |      Images      |
 | :------------- | :---------: | :------------------------------: | :---------------: | :--------------: |
 | **Каталог**    |    src/     |           src/styles/            |   src/scripts/    |     src/img/     |
-| **Расширение** | .html, .pug | .css, .sass, .scss, .less, .styl | .js, .ts, .coffee | .jpg, .png, .gif |
+| **Расширение** | .html       | .css, .sass, .scss               | .js, .ts          | .jpg, .png, .gif |
 
 ## Output
 
