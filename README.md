@@ -72,3 +72,6 @@
 [gulp-rename](https://www.npmjs.com/package/gulp-rename) Переименовывает файлы  
 [gulp-size](https://www.npmjs.com/package/gulp-size) Отображение информации о размерах файлов в терминале  
 [browser-sync](https://browsersync.io/docs/gulp) Автоматическое обновление сайта при изменении файлов
+
+
+[Установка](https://www.youtube.com/watch?v=wSFJGunCcug&list=PLuY6eeDuleIM-cQvHBy4jQnGH0fVZ_RhK&index=11&t=5s)
